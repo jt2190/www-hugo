@@ -1,0 +1,10 @@
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "themes/kiss"]
+	path = themes/kiss
+	url = https://github.com/ribice/kiss.git
+[submodule "public"]
+	path = public
+	url = https://github.com/jt2190/jt2190.git
+	branch = gh-pages
